@@ -5,6 +5,11 @@
 </p>
 -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://anqqnkmcqtnclqkezswj.supabase.co/functions/v1/card?id=78d0a1a3&tz=America/Los_Angeles&theme=dark&v=4">
+  <img alt="Doki activity rings" src="https://anqqnkmcqtnclqkezswj.supabase.co/functions/v1/card?id=78d0a1a3&tz=America/Los_Angeles&theme=light&v=4">
+</picture>
+
 
 <!--### Hi there 👋-->
 
@@ -23,9 +28,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-<p align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=0xjeffro&title_color=81A1C1&icon_color=81A1C1&text_color=333&bg_color=ffffff&show_icons=true&count_private=true"/>
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xjeffro&layout=compact&title_color=81A1C1&bg_color=ffffff&hide=javascript,css,html,less" />
-</p>
