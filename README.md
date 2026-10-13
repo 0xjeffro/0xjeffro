@@ -6,8 +6,8 @@
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://anqqnkmcqtnclqkezswj.supabase.co/functions/v1/card?id=78d0a1a3&tz=America/Los_Angeles&theme=dark&v=4">
-  <img alt="Doki activity rings" src="https://anqqnkmcqtnclqkezswj.supabase.co/functions/v1/card?id=78d0a1a3&tz=America/Los_Angeles&theme=light&v=4">
+  <source media="(prefers-color-scheme: dark)" srcset="https://anqqnkmcqtnclqkezswj.supabase.co/functions/v1/card?id=78d0a1a3&tz=America/Los_Angeles&theme=dark&v=5">
+  <img width="100%" alt="Doki activity rings" src="https://anqqnkmcqtnclqkezswj.supabase.co/functions/v1/card?id=78d0a1a3&tz=America/Los_Angeles&theme=light&v=5">
 </picture>
 
 
